@@ -1,0 +1,15 @@
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.ServiceModel.Internals.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Platform.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Xml.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/TestCrossPlatform.iOS.exe
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Core.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Xaml.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/mscorlib.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/Xamarin.Forms.Core.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/TestCrossPlatform.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/mtouch-cache/32/Link/System.Net.Http.dll

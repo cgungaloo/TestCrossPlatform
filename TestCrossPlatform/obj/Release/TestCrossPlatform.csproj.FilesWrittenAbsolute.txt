@@ -1,0 +1,12 @@
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/obj/Release/TestCrossPlatform.App.xaml.g.cs
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/obj/Release/TestCrossPlatform.TestCrossPlatformPage.xaml.g.cs
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/obj/Release/TestCrossPlatform.App.xaml
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/obj/Release/TestCrossPlatform.TestCrossPlatformPage.xaml
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/bin/Release/TestCrossPlatform.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/obj/Release/TestCrossPlatform.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/bin/Release/Xamarin.Forms.Core.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/bin/Release/Xamarin.Forms.Platform.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/obj/Release/TestCrossPlatform.MyPage.xaml.g.cs
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrossPlatform/obj/Release/TestCrossPlatform.MyPage.xaml

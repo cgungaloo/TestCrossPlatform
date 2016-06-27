@@ -1,0 +1,13 @@
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/optimized/
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/bin/iPhone/Release/TestCrossPlatform.iOS.exe
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/obj/iPhone/Release/TestCrossPlatform.iOS.exe
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/bin/iPhone/Release/Xamarin.Forms.Core.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/bin/iPhone/Release/Xamarin.Forms.Platform.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/bin/iPhone/Release/Xamarin.Forms.Platform.iOS.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/bin/iPhone/Release/Xamarin.Forms.Xaml.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/bin/iPhone/Release/Calabash.dll
+/Users/techteamguest/Projects/TestCrossPlatform/iOS/bin/iPhone/Release/TestCrossPlatform.dll

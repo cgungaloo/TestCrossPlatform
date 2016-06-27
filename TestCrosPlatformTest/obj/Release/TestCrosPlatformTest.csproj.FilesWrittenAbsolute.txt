@@ -1,0 +1,11 @@
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/bin/Release/TestCrosPlatformTest.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/obj/Release/TestCrosPlatformTest.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/bin/Release/nunit.framework.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/bin/Release/Xamarin.UITest.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/bin/Release/Microsoft.Web.XmlTransform.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/bin/Release/NuGet.Core.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/bin/Release/TestCrossPlatform.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/bin/Release/Xamarin.Forms.Core.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/techteamguest/Projects/TestCrossPlatform/TestCrosPlatformTest/bin/Release/Xamarin.Forms.Platform.dll
